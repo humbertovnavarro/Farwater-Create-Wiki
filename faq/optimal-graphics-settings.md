@@ -6,13 +6,13 @@ description: This part is dedicated to optimizing game settings to increase FPS
 
 
 
-1. Video Settings
+1.  Video Settings
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Settings Section</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 2\. General
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Video Settings Section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 2.1 Rendering Distance - directly affects FPS&#x20;
 
@@ -40,7 +40,7 @@ I don't see any changes myself so i recommend setting those to Disabled
 
 3.0 Quality&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Quality Section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3.1 Graphics - This one toggles a lot of options that we might set manually. For performance - Fast
 
@@ -54,7 +54,7 @@ I don't see any changes myself so i recommend setting those to Disabled
 
 3.6 Entity Distance , would be disabled further so doesn't matter.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Entity Distance </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 This might be useful when you have lots of mobs around, but due to having Culling in the pack its not that effective. Leave it as it is.&#x20;
 
@@ -66,7 +66,7 @@ This might be useful when you have lots of mobs around, but due to having Cullin
 
 4.0 - Performance Section
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Performance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4.1 - Chunk Updates to MAX
 
@@ -74,19 +74,19 @@ This might be useful when you have lots of mobs around, but due to having Cullin
 
 <mark style="color:red;">**In this exact case "High" means positive impact!**</mark>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 4.3 Culling / Occlusion
 
 These should be always turned on , they work as an optimization.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 5.0 - Extras&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 5.1 - Memory Allocator - Async for modern GPU's , SWAP for very old PC's&#x20;
 
@@ -106,11 +106,11 @@ These should be always turned on , they work as an optimization.
 
 I use 64 - 32 - 64 - 16&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 5.9 Dynamic Lights
 
 Those are quite heavy calculations, you better disable it.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
