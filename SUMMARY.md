@@ -9,5 +9,4 @@
 
 ## ❓ FAQ
 
-* [FAQ](faq/faq.md)
 * [Optimal graphics settings](faq/optimal-graphics-settings.md)

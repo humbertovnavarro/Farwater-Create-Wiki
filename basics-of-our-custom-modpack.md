@@ -1,2 +1,2 @@
-# 🎉 Basics of our custom Modpack
+# Basics of our custom Modpack
 

@@ -1,2 +1,2 @@
-# 🎁 A few example builds
+# A few example builds
 

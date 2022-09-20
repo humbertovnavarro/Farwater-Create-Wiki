@@ -1,2 +1,2 @@
-# ⚒ Basics of some major mods we have
+# Basics of some major mods we have
 
