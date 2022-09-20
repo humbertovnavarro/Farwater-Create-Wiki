@@ -6,3 +6,8 @@
 * [Basics of our custom Modpack](basics-of-our-custom-modpack.md)
 * [How to get started](how-to-get-started.md)
 * [A few example builds](a-few-example-builds.md)
+
+## ❓ FAQ
+
+* [FAQ](faq/faq.md)
+* [Optimal graphics settings](faq/optimal-graphics-settings.md)
