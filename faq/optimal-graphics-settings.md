@@ -2,7 +2,7 @@
 description: This part is dedicated to optimizing game settings to increase FPS
 ---
 
-# Optimal graphics settings
+# Optimal graphics settings?
 
 
 
@@ -66,7 +66,7 @@ This might be useful when you have lots of mobs around, but due to having Cullin
 
 4.0 - Performance Section
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4.1 - Chunk Updates to MAX
 
@@ -80,7 +80,7 @@ This might be useful when you have lots of mobs around, but due to having Cullin
 
 These should be always turned on , they work as an optimization.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -106,7 +106,7 @@ These should be always turned on , they work as an optimization.
 
 I use 64 - 32 - 64 - 16&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 5.9 Dynamic Lights
 
