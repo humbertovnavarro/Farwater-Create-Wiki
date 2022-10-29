@@ -1,12 +1,12 @@
 # How to get started
 
-## Install using PolyMC / MultiMC
+## Install using Prism Launcher
 
-This method is by far the easiest. Follow the instructions for your operating system at [https://polymc.org/download/](https://polymc.org/download/) to install PolyMC.
+This method is by far the easiest. Follow the instructions for your operating system at [https://prismlauncher.org/download/](https://prismlauncher.org/download/) to install Prism Launcher.
 
 First, sign in with your Microsoft account using the "add account" button in the upper right corner.
 
-You will be prompted to go to a link where you will link your Microsoft account to PolyMC, once you've done that, we can move on.
+You will be prompted to go to a link where you will link your Microsoft account to Prism Launcher, once you've done that, we can move on.
 
 Click on "add instance" in the upper right corner, select "CurseForge" from the options menu on the left, and in the search box search for Farwater.
 
